@@ -4,7 +4,7 @@
 
 ## Usage
 
-- Open [cantunaStorySendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/cantunaStorySendScript.js)  
+- Open [ScriptSendHistoria.js](https://github.com/Christian-F-N/SendStoryWhatsApp/blob/main/SendWhatsApp/ScriptSendHistoria.js)
 
 - Copy all content (click raw -> ctrl+a -> ctrl+c)
 
