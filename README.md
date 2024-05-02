@@ -12,8 +12,8 @@
 
 |  ⚠️ Important notice, in a recent update of Google Chrome, any script is prevented from being pasted in the Console.|
 |--|
-| **To workaround this issue, the developer console expects to receive a textual confirmation by writing in the console: "allow-scripts"**|
-|After that, pasting and continuing script execution will be allowed.|
+| ***To workaround this issue, the developer console expects to receive a textual confirmation by writing in the console: "allow-scripts"***|
+| After that, pasting and continuing script execution will be allowed.|
 
 Paste the code into the console and press Enter
 
